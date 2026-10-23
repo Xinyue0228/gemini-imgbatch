@@ -1,0 +1,20 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# ---------- 密钥：千万不要提交你的 Google 会话 Cookie！ ----------
+cookies.json
+.cookie_cache/
+
+# ---------- 生成产物 ----------
+output/
+_work/
+
+# ---------- 系统文件 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
